@@ -1,6 +1,7 @@
 
 
 
+
 nav{
     height: 4rem;
 }
@@ -20,4 +21,76 @@ nav .navbar-brand{
 .d-flex{
     padding-right: 15rem;
 }
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Main */
+img{
+    max-width: 100%;
+}
+.cards1{
+    padding: 30px;
+
+}
+.Miocard img{
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.inrow{
+    margin-bottom: 5px;
+}
+
+.cards1{
+    padding: 20px;
+}
+
+.card{
+    margin: 10px;
+    border-radius: 30px;
+    border-width: 0px;
+    border-style: none;
+    
+}
+.card img{
+    border-radius: 30px;
+}
+.card h5{
+    font-weight: 300;
+    
+}
+.card {
+    overflow: hidden;
+  }
+
+  .card-img {
+    transition: transform 0.3s ease;
+  }
+
+  .card:hover .card-img {
+    transform: scale(1.1);
+  }
 
