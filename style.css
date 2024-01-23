@@ -1,38 +1,6 @@
 
 
 
-.dropdown-toggle{
-    position: relative;
-}
-nav{
-    height: 4rem;
-}
-
-body{background-color: #e5e5e5;}
-
-.dropdown-menu{
-    margin-left: 55rem;
-    position:fixed;
-}
-
-
-nav .navbar-brand{
-
-    padding-right: 20%;
-    padding-left: 20%;
-    
-}
-
-.d-flex{
-    padding-right: 15rem;
-}
-
-
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 
 
@@ -47,55 +15,4 @@ nav .navbar-brand{
 
 
 
-
-
-
-
-
-/*Main */
-img{
-    max-width: 100%;
-}
-.cards1{
-    padding: 30px;
-
-}
-.Miocard img{
-    margin: 10px;
-    border-radius: 20px;
-    
-}
-.inrow{
-    margin-bottom: 5px;
-}
-
-.cards1{
-    padding: 20px;
-}
-
-.card{
-    margin: 10px;
-    border-radius: 10px;
-    border-width: 0px;
-    border-style: none;
-    
-}
-.card img{
-    border-radius: 10px;
-}
-.card h5{
-    font-weight: 300;
-    
-}
-.card {
-    overflow: hidden;
-  }
-
-  .card-img {
-    transition: transform 0.3s ease;
-  }
-
-  .card:hover .card-img {
-    transform: scale(1.1);
-  }
 
