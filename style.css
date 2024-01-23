@@ -1,14 +1,19 @@
 
 
 
-
+.dropdown-toggle{
+    position: relative;
+}
 nav{
     height: 4rem;
 }
 
 body{background-color: #e5e5e5;}
 
-
+.dropdown-menu{
+    margin-left: 55rem;
+    position:fixed;
+}
 
 
 nav .navbar-brand{
