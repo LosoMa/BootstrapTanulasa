@@ -1,20 +1,25 @@
 
 
 
-
+.dropdown-toggle{
+    position: relative;
+}
 nav{
     height: 4rem;
 }
 
 body{background-color: blueviolet;}
 
-
+.dropdown-menu{
+    margin-left: 55rem;
+    position:fixed;
+}
 
 
 nav .navbar-brand{
 
-    padding-right: 20rem;
-    padding-left: 20rem;
+    padding-right: 20%;
+    padding-left: 20%;
     
 }
 
