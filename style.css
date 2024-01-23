@@ -6,7 +6,7 @@ nav{
     height: 4rem;
 }
 
-body{background-color: blueviolet;}
+body{background-color: #e5e5e5;}
 
 
 
@@ -70,13 +70,13 @@ img{
 
 .card{
     margin: 10px;
-    border-radius: 30px;
+    border-radius: 10px;
     border-width: 0px;
     border-style: none;
     
 }
 .card img{
-    border-radius: 30px;
+    border-radius: 10px;
 }
 .card h5{
     font-weight: 300;
